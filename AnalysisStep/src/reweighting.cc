@@ -40,9 +40,9 @@ private:
   const int g4index = 3;
   const int g1prime2index = 11;
 
-  const double g2mix = 1.65684;
-  const double g4mix = 2.55052;
-  const double g1prime2mix = -12100.42;
+  const double g2mix = 1.663195;
+  const double g4mix = 2.55502;
+  const double g1prime2mix = -12110.20;
 
   const int a1index = 0;
   const int b5index = 4;
